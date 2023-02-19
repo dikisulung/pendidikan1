@@ -149,12 +149,15 @@ section {
 
   .credit {
     text-align: center;
-    color: $white;
+    color: #fff;
     font-size: 1rem;
     padding-top: 10%;
 
     span {
       color: $yellow;
+    }
+    a {
+      color: #fff;
     }
   }
 }
